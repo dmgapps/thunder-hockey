@@ -1,0 +1,24 @@
+<?xml version="2.0" encoding="UTF-8"?>
+<widget xmlns= "http://www.w3.org/ns/widgets"
+	xmlns:gap= "http://phonegap.com/ns/1.0"
+	id='com.localfreeapps.thundernationalaaahockey' 
+	version='1.0.0.0' >
+	
+	<name>Thunder National AAA Hockey </name>
+	<description>99 Thunder AAA Hockey National Ice Hockey team</description>
+	<author href="http://localfreeapps.com" email="support@localfreeapps.com">
+		Local Free Apps
+	</author>
+	<gap:splash src="icons/543431211.splash.png" />
+	<icon src='icons/1555899905.png' width='256' height='256' />
+<icon src='icons/1555899905x114.png' width='114' height='114' />
+<icon src='icons/1555899905x72.png' width='72' height='72' />
+<icon src='icons/1555899905x58.png' width='58' height='58' />
+<icon src='icons/1555899905x57.png' width='57' height='57' />
+<icon src='icons/1555899905x48.png' width='48' height='48' />
+<icon src='icons/1555899905x36.png' width='36' height='36' />
+
+	<preference name="permissions" value="none"/>
+	<preference name="stay-in-webview" value="true" />
+	<access origin="http://localfreeapps.com" subdomains="true" />
+</widget>
